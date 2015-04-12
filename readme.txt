@@ -1,6 +1,6 @@
 This is readme updated:
 
-<<<<<<< HEAD
+
 update1:
 
 update2:
